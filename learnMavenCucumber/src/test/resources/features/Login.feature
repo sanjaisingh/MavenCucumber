@@ -1,7 +1,14 @@
-Feature: Test Guru99
+Feature: Facebook Login Page
 
-@Smoke
-Scenario: Login with valid credentials
+  @Smoke
+  Scenario Outline: Login with valid credentials
     Given Open chrome and start application
-    When Enter valid username "mngr190802" and password "susUnYd"
-    Then User should be able to login
+    When Enter valid username "<username>" and password "<password>"
+    And User should be able to login
+    Then User "Sanjai Singh" should be logged in
+
+    Examples: 
+      | username             | password       |
+      | sanjai1184@gmail.com | sanajayjai1!@# |
+      | sanjai1184@gmail.com | sanajayjai1!@# |
+      | sanjai1184@gmail.com | sanajayjai1!@# |

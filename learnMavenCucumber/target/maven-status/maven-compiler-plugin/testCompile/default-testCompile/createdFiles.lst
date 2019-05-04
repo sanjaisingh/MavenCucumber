@@ -1,5 +1,5 @@
 com\cucumber\Page\BaseClass.class
-stepDefinitions\LoginSteps.class
+stepDefinitions\FizzBuzzSteps.class
 com\cucumber\Utility\BrowserFactory.class
 com\cucumber\Page\Guru99LoginPage.class
 com\cucumber\Utility\ConfigProperties.class

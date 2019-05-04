@@ -1,6 +1,7 @@
-E:\SeleniumJava\learnMavenCucumber\src\test\java\runner\TestRunner.java
-E:\SeleniumJava\learnMavenCucumber\src\test\java\com\cucumber\Page\BaseClass.java
-E:\SeleniumJava\learnMavenCucumber\src\test\java\com\cucumber\Utility\BrowserFactory.java
-E:\SeleniumJava\learnMavenCucumber\src\test\java\com\cucumber\Page\Guru99LoginPage.java
-E:\SeleniumJava\learnMavenCucumber\src\test\java\stepDefinitions\LoginSteps.java
-E:\SeleniumJava\learnMavenCucumber\src\test\java\com\cucumber\Utility\ConfigProperties.java
+E:\git-Framework\MavenCucumber\learnMavenCucumber\src\test\java\com\cucumber\Page\BaseClass.java
+E:\git-Framework\MavenCucumber\learnMavenCucumber\src\test\java\com\cucumber\Page\Guru99LoginPage.java
+E:\git-Framework\MavenCucumber\learnMavenCucumber\src\test\java\com\cucumber\Utility\BrowserFactory.java
+E:\git-Framework\MavenCucumber\learnMavenCucumber\src\test\java\stepDefinitions\FizzBuzzSteps.java
+E:\git-Framework\MavenCucumber\learnMavenCucumber\src\test\java\com\cucumber\Utility\ConfigProperties.java
+E:\git-Framework\MavenCucumber\learnMavenCucumber\src\test\java\runner\TestRunner.java
+E:\git-Framework\MavenCucumber\learnMavenCucumber\src\test\java\stepDefinitions\LoginSteps.java
