@@ -14,6 +14,11 @@ public class LoginSteps {
 
 	WebDriver driver;
 	
+	public void setup()
+	{
+		
+	}
+	
 	@Given("^Open chrome and start application$")
 	public void open_chrome_and_start_application()
 	{
@@ -30,7 +35,7 @@ public class LoginSteps {
 		driver.findElement(By.name("email")).sendKeys(username);
 		driver.findElement(By.name("pass")).sendKeys(password);
 	}
-	//*[@id="userNav"]//a/div
+
 	@When("^User should be able to login$")
 	public void user_should_be_able_to_login()
 	{
